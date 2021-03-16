@@ -1,2 +1,0 @@
-# viruss
-buat folder
